@@ -1,3 +1,12 @@
+//name:Hu Hantao
+//date:1/4/2026
+//The programmme is used for control led light
+
+
+
+
+
+
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BCM)
