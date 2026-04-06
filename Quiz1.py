@@ -1,3 +1,11 @@
+//Author:Hu Hantao
+//Date:6/4/2026
+//The program will ask the user to anwser questions 
+//THe program wil also keep a score 
+
+
+
+
 def quiz():
         print("welcome to the animal quiz!")
         print("answer the following questions:")
